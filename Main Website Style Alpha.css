@@ -31,6 +31,30 @@ div#container {
 
 /* Header */
 
+html {
+    font-family: "Lucida Sans", sans-serif;
+}
+.header {
+    background-color: #9933cc;
+    color: #ffffff;
+    padding: 15px;
+}
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.menu li {
+    padding: 8px;
+    margin-bottom: 7px;
+    background-color :#33b5e5;
+    color: #ffffff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.menu li:hover {
+    background-color: #0099cc;
+}
+
 div#header {
 	position: relative;
 	padding-bottom: 40px;
@@ -149,3 +173,13 @@ div#footer div.gutter {
 br.c {
 	display: block;
 }                            
+
+
+.menu {
+    width: 25%;
+    float: left;
+}
+.main {
+    width: 75%;
+    float: left;
+}
