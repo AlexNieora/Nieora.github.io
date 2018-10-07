@@ -20,7 +20,7 @@ p{
 
 /* Container */
 
-div#container {
+div #container {
 	margin: 0 auto;
 	width: 940px;
 	background-image: url;
@@ -55,20 +55,20 @@ html {
     background-color: #0099cc;
 }
 
-div#header {
+div #header {
 	position: relative;
 	padding-bottom: 40px;
 	background: #fff;
 	zoom: 1;
 }
-div#header_wrapper {
+div #header_wrapper {
 	padding-top: 20px;
 }
 
-div#emotion-header {
+div #emotion-header {
 	position: relative;
 }
-div#emotion-header strong#emotion-header-title {
+div #emotion-header strong#emotion-header-title {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -77,32 +77,32 @@ div#emotion-header strong#emotion-header-title {
 
 /* Content */
 
-div#content {
+div #content {
 	width: 700px;
 	float: right;
 	background: #fff;
 }
-div#content div.gutter {
+div #content div.gutter {
 	padding: 0 100px 60px 100px;
 }
 
 
 /* Sidebar */
 
-div#sidebar {
+div #sidebar {
 	width: 239px;
 	float: left;
 	padding: 0 0 40px 0;
 }
 
-div#jimdobox {
+div #jimdobox {
 	margin-bottom: 20px;
 }
 
 
 /* Navigation */
 
-div#navigation {
+div #navigation {
 	margin: 0 0 20px;
 	padding: 0 0 30px;
 	background: url(1001-navigation_bg.gif) repeat-x 0 100%;
@@ -150,7 +150,7 @@ ul.mainNav3 li a {
 	width: 179px;
 }
 
-div#sidebar_content {
+div #sidebar_content {
 	margin: 0 0 20px;
 	padding: 0 20px;
 }
@@ -158,11 +158,11 @@ div#sidebar_content {
 
 /* Footer */
 
-div#footer {
+div #footer {
 	width: 700px;
 	margin-left: 240px;
 }
-div#footer div.gutter {
+div #footer div.gutter {
 	background: url(1001-dots.gif) repeat-x;
 	background-color: #fff;
 	float: left;
