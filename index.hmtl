@@ -1,10 +1,9 @@
-//* Ported from home page etc */
 <html>
   <Head>
     <link rel="stylesheet" href="Main Website Style Alpha.css">
     </Head>
   <Title> Home Page <Title>
-
+//*ported from home page *//
 <BODY> 
     <div id="container" class="williammorris460.gif">
         <div id="wrapper">
